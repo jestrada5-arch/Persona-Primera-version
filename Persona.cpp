@@ -14,7 +14,8 @@ protected :
 			nombres = nom;
 			apellidos = ape;
 			direccion = dir;
-			telefono = tel; = fn;
+			telefono = tel; 
+			fecha_nacimiento = fn;
 	}
 	
 		void crear();
